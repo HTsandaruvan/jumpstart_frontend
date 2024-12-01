@@ -17,18 +17,18 @@ Users should be able to perform the following functions in the portal
 Administrators should be able to perform the following functions in the portal
 •	Register in the Portal <br/>
 •	Login to the portal  <br/>
-•	Add products
-•	Activate / Deactivate a product post
-•	Update their profile
-•	View the List of Registered Users
+•	Add products <br/>
+•	Activate / Deactivate a product post <br/>
+•	Update their profile <br/>
+•	View the List of Registered Users <br/>
 
 Both Users & Administrator
-•	Visit the Home Page
-•	View product Listing
-•	About Us Page
-•	Contact Us Page
-•	Terms & Conditions
-•	Search for a product by Name, Brand, Serial No & Price Range
+•	Visit the Home Page <br/>
+•	View product Listing <br/>
+•	About Us Page <br/>
+•	Contact Us Page <br/>
+•	Terms & Conditions <br/>
+•	Search for a product by Name, Brand, Serial No & Price Range <br/>
 
 
 ## Technologies Used & System Requirements
