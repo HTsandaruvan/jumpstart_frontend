@@ -8,15 +8,15 @@ user, and edit their personal profile page
 ## Project Overview
 
 Users should be able to perform the following functions in the portal
-  • Register in the Portal
-  •	Login to the Portal
-  •	Add items to the cart
-  •	View cart items
-  •	Update their Profile after logging in.
+  1. Register in the Portal
+  2. Login to the Portal
+  3. Add items to the cart
+  4. View cart items
+  5. Update their Profile after logging in.
 
 Administrators should be able to perform the following functions in the portal
-•	Register in the Portal
-•	Login to the portal
+•	Register in the Portal <br/>
+•	Login to the portal  <br/>
 •	Add products
 •	Activate / Deactivate a product post
 •	Update their profile
