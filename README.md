@@ -104,5 +104,4 @@ npm start
 
 ## Screenshot
 
-<p>Terms and Condition Page</p>
-<img src="./Images/Terms.png" alt="profile" width="50%"/>
+
