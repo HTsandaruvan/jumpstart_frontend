@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jumpstart/static/css/main.b7e6752e.css",
+    "main.js": "/jumpstart/static/js/main.cb977f17.js",
+    "static/js/787.a380bb94.chunk.js": "/jumpstart/static/js/787.a380bb94.chunk.js",
+    "static/media/not_found.svg": "/jumpstart/static/media/not_found.85c88f29515a232be465ee223cb089b9.svg",
+    "static/media/register.png": "/jumpstart/static/media/register.4f0b6f699b574dde0bac.png",
+    "static/media/login.png": "/jumpstart/static/media/login.7b456e1b7119ae487c7e.png",
+    "static/media/empty.svg": "/jumpstart/static/media/empty.f6e30b25cfe1c722697dcdf48e7364ec.svg",
+    "static/media/hero.webp": "/jumpstart/static/media/hero.fc92793c37ce3bbd4a83.webp",
+    "static/media/forgot_password.png": "/jumpstart/static/media/forgot_password.a9a4c852d7bf7d7052f1.png",
+    "static/media/logo.svg": "/jumpstart/static/media/logo.7a6f0058ad61b99b1d0ce66ea47d1b6c.svg",
+    "static/media/reset_password.png": "/jumpstart/static/media/reset_password.d5c23fd76564e01d9b69.png",
+    "static/media/logoicon.png": "/jumpstart/static/media/logoicon.426fcb0143312dd41218.png",
+    "static/media/welcome.png": "/jumpstart/static/media/welcome.d9fca7385db9f57e989e.png",
+    "index.html": "/jumpstart/index.html",
+    "main.b7e6752e.css.map": "/jumpstart/static/css/main.b7e6752e.css.map",
+    "main.cb977f17.js.map": "/jumpstart/static/js/main.cb977f17.js.map",
+    "787.a380bb94.chunk.js.map": "/jumpstart/static/js/787.a380bb94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e6752e.css",
+    "static/js/main.cb977f17.js"
+  ]
+}
